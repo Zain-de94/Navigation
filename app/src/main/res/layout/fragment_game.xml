@@ -17,13 +17,13 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.android.navigation.GameFragment">
+    tools:context="com.example.navigation.GameFragment">
 
     <data>
 
         <variable
             name="game"
-            type="com.example.android.navigation.GameFragment" />
+            type="com.example.navigation.GameFragment" />
     </data>
 
     <ScrollView
